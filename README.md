@@ -19,9 +19,13 @@ We have developed a dual neural radiance field (Du-NeRF) to simultaneously achie
 Code is coming soon.
 
 ## Qualitative Result
+<p float="left">
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig11.png" width="100" />
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig12.png" width="100" />
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig13.png" width="100" />
 
+</p>
 
-![alt-text-1](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig11.png)     |![alt-text-2](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig12.png)    |  ![alt-text-3](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig13.png)   | ![alt-text-4](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig14.png)
 
 
 
