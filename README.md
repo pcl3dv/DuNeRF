@@ -20,8 +20,7 @@ Code is coming soon.
 
 ## Qualitative Result
 
-Solarized dark    |   Solarized dark    |   Solarized dark    |   Solarized dark
-: ---- : |: ---- : |: ---- : |: ---- : 
+
 ![alt-text-1](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig11.png)     |![alt-text-2](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig12.png)    |  ![alt-text-3](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig13.png)   | ![alt-text-4](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig14.png)
 
 
