@@ -25,16 +25,11 @@ Code is coming soon.
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig13.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig14.png" width="24%" />
 
-  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig21.png" width="24%" />
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig21.png" width="24%" / label='GT'>
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig22.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig23.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig24.png" width="24%" />
 
-  <input type="text" id="name" name="name" required minlength="4" maxlength="8" size="10" />
-  <text src="GT" width="24%" />
-  <text src="Rendering Color" width="24%" />
-  <text src="Diffuse Color" width="24%" />
-  <text src="Specular Color" width="24%" />
 </p>
 
 
