@@ -22,7 +22,7 @@ Code is coming soon.
 
 Solarized dark    |   Solarized dark    |   Solarized dark    |   Solarized dark
 : ---- : |: ---- : |: ---- : |: ---- : 
-![](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig11.png)     |![](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig12.png)    |  ![](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig13.png)   | ![](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig14.png)
+![alt-text-1](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig11.png)     |![alt-text-2](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig12.png)    |  ![alt-text-3](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig13.png)   | ![alt-text-4](https://github.com/pcl3dv/DuNeRF/blob/main/images/fig14.png)
 
 
 
