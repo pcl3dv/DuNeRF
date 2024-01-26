@@ -30,13 +30,10 @@ Code is coming soon.
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig23.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig24.png" width="24%" />
 
-<p align="center">
-<GT width="24%" />
-<Rendering Color width="24%" />
-<Diffuse Color width="24%" />
-<Specular Color width="24%" />
-</p>
-
+  <text src="GT" width="24%" />
+  <text src="Rendering Color" width="24%" />
+  <text src="Diffuse Color" width="24%" />
+  <text src="Specular Color" width="24%" />
 </p>
 
 
