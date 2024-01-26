@@ -29,7 +29,9 @@ Code is coming soon.
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig22.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig23.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig24.png" width="24%" />
-  
+
+<p align="center">GT Rendering Color Diffuse Color Specular Color</p>
+
 </p>
 
 
