@@ -25,7 +25,7 @@ Code is coming soon.
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig13.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig14.png" width="24%" />
 
-  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig21.png" width="24%" / label='GT'>
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig21.png" width="24%" label='GT' />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig22.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig23.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig24.png" width="24%" />
