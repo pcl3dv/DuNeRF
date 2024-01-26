@@ -31,10 +31,10 @@ Code is coming soon.
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig24.png" width="24%" />
 
 <p align="center">
-<GT width="24%" >
-<Rendering Color width="24%" >
-<Diffuse Color width="24%" >
-<Specular Color width="24%" >
+<GT width="24%" />
+<Rendering Color width="24%" />
+<Diffuse Color width="24%" />
+<Specular Color width="24%" />
 </p>
 
 </p>
