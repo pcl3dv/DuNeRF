@@ -25,10 +25,17 @@ Code is coming soon.
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig13.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig14.png" width="24%" />
 
-  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig21.png "GT"" width="24%" />
-  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig22.png "GT"" width="24%" />
-  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig23.png "GT"" width="24%" />
-  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig24.png "GT"" width="24%" />
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig21.png" width="24%" />
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig22.png" width="24%" />
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig23.png" width="24%" />
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig24.png" width="24%" />
+
+<p align="center">
+<GT width="24%" >
+<Rendering Color width="24%" >
+<Diffuse Color width="24%" >
+<Specular Color width="24%" >
+</p>
 
 </p>
 
