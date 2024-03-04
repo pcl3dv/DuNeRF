@@ -7,7 +7,7 @@ Zhenyu Bao<sup>1,2</sup> Guibiao Liao<sup>1,2</sup>, Zhongyuan Zhao<sup>1,2</sup
 
 <sup>*</sup>corresponding author: max.liu.426@gmail.com, lqing900205@gmail.com
 
-### [Paper]([ https://doi.org/10.48550/arXiv.2401.14726](https://doi.org/10.48550/arXiv.2401.14726))
+### [Paper](https://doi.org/10.48550/arXiv.2401.14726)
 
 </div>
 
