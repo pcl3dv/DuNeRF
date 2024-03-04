@@ -7,7 +7,7 @@ Zhenyu Bao<sup>1,2</sup> Guibiao Liao<sup>1,2</sup>, Zhongyuan Zhao<sup>1,2</sup
 
 <sup>*</sup>corresponding author: max.liu.426@gmail.com, lqing900205@gmail.com
 
-### [Paper]()
+### [Paper]([ https://doi.org/10.48550/arXiv.2401.14726](https://doi.org/10.48550/arXiv.2401.14726))
 
 </div>
 
@@ -23,7 +23,6 @@ Code is coming soon.
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig12.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig13.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig14.png" width="24%" />
-
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig31.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig32.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig33.png" width="24%" />
@@ -34,5 +33,10 @@ Code is coming soon.
 ## Citation
 Cite as below if you find this repository is helpful to your project:
 ```
-
+@article{bao20243d,
+  title={3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field},
+  author={Bao, Zhenyu and Liao, Guibiao and Zhao, Zhongyuan and Liu, Kanglin and Li, Qing and Qiu, Guoping},
+  journal={arXiv preprint arXiv:2401.14726},
+  year={2024}
+}
 ```
