@@ -18,6 +18,15 @@ Zhenyu Bao<sup>1,2</sup> Guibiao Liao<sup>1,2</sup>, Zhongyuan Zhao<sup>1,2</sup
 Code is coming soon.
 
 ## Qualitative Result
+Ours results on Scannet.
+<p align="middle">
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig01.png" width="24%" />
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig02.png" width="24%" />
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig03.png" width="24%" />
+  <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig04.png" width="24%" />
+</p>
+
+The decoupled colour in our Du-NeRF.
 <p align="middle">
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig11.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig12.png" width="24%" />
@@ -27,7 +36,6 @@ Code is coming soon.
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig32.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig33.png" width="24%" />
   <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/fig34.png" width="24%" />
-
 </p>
 
 ## Citation
