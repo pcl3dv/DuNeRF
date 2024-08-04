@@ -23,12 +23,12 @@
 </div>
 
 <div>
-    <sup>*</sup>corresponding author
+    <sup>* </sup>corresponding author
 </div>
 
 ### [Paper](https://doi.org/10.48550/arXiv.2401.14726) | Project | Video
 
-
+</div>
 
 <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/pipeline.png">
 
