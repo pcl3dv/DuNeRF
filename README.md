@@ -26,11 +26,11 @@
     <sup>* </sup>corresponding author
 </div>
 
-<br>
-
 ### [Paper](https://doi.org/10.48550/arXiv.2401.14726) | Project | Video
 
 </div>
+
+<br>
 
 <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/teaser.png">
 
@@ -39,8 +39,6 @@
 We have developed a dual neural radiance field (Du-NeRF) to simultaneously achieve high-quality geometry reconstruction and view rendering. Du-NeRF contains two geometric fields, one derived from the SDF field to facilitate geometric reconstruction and the other derived from the density field to boost new view synthesis. One of the innovative features of Du-NeRF is that it decouples a view-independent component from the density field and uses it as a label to supervise the learning process of the SDF field. This reduces shape-radiance ambiguity and enables geometry and color to benefit from each other during the learning process.
 
 Code is coming soon.
-
-<br>
 
 ## Qualitative Result
 Ours results on Scannet.
