@@ -19,7 +19,7 @@
 </div>
 
 <div>
-    ACMMM '23
+    ACMMM '24
 </div>
 
 ### [Paper](https://doi.org/10.48550/arXiv.2401.14726) | Project | Video
