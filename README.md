@@ -40,6 +40,8 @@ We have developed a dual neural radiance field (Du-NeRF) to simultaneously achie
 
 Code is coming soon.
 
+<br>
+
 ## Qualitative Result
 Ours results on Scannet.
 <p align="middle">
