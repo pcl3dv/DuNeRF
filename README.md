@@ -2,7 +2,7 @@
 
 <h1> DuNeRF (ACMMM '24)
 
-<d style="font-size: 12px;"> 3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field </d>
+<div style="font-size: 12px;"> 3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field </div>
 
 </h1>
  
