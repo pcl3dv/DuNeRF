@@ -1,7 +1,10 @@
 <div align="center">
 
-<h1> DuNeRF </h1>
-<h2> 3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field </h2> 
+<h1> DuNeRF
+<h2> 3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field </h2>
+
+</h1>
+ 
 
 <div>
     Zhenyu Bao<sup>1</sup>&emsp;
