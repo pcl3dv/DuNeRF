@@ -1,15 +1,30 @@
 <div align="center">
 
-#  3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field
-Zhenyu Bao<sup>1,2</sup> Guibiao Liao<sup>1,2</sup>, Zhongyuan Zhao<sup>1,2</sup>, Kanglin Liu<sup>2,* </sup>,  Qing Li<sup>2,*</sup> , Guoping Qiu<sup>3,4</sup>
+<h1> DuNeRF </h1>
+<h2> 3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field </h2> 
 
-<sup>1</sup>Peking University    <sup>2</sup>Pengcheng Laboratory    <sup>3</sup>University of Nottingham    <sup>4</sup>Shenzhen University
-
-<sup>*</sup>corresponding author: max.liu.426@gmail.com, lqing900205@gmail.com
-
-### [Paper](https://doi.org/10.48550/arXiv.2401.14726)
-
+<div>
+    Zhenyu Bao<sup>1</sup>&emsp;
+    Guibiao Liao<sup>1</sup>&emsp;
+    Zhongyuan Zhao<sup>1</sup>&emsp;
+    Kanglin Liu<sup>2, *</sup>&emsp;
+    Qing Li<sup>2, *</sup>&emsp;
+    Guoping Qiu<sup>3</sup>
 </div>
+
+<div>
+    <sup>1</sup>Peking University&emsp;
+    <sup>2</sup>Pengcheng Laboratory&emsp;
+    <sup>3</sup>University of Nottingham
+</div>
+
+<div>
+    ACMMM '23
+</div>
+
+### [Paper](https://doi.org/10.48550/arXiv.2401.14726) | Project | Video
+
+
 
 <img src="https://github.com/pcl3dv/DuNeRF/blob/main/images/pipeline.png">
 
