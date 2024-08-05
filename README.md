@@ -26,7 +26,7 @@
     <sup>* </sup>corresponding author
 </div>
 
-### [Paper](https://doi.org/10.48550/arXiv.2401.14726) | Project | Video
+### [Paper](https://doi.org/10.48550/arXiv.2401.14726) | [Project](https://zhenybao.github.io/DuNeRF) | Video
 
 </div>
 
